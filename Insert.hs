@@ -1,0 +1,1 @@
+insert a = Ord a = a -> [a]

@@ -1,0 +1,1 @@
+isFib = x [n + 1..n] -> bool
